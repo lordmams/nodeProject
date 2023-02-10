@@ -75,6 +75,9 @@ User = {
 {
     return nombre * coeficition;
 }
-
+ function soustraction ( nombre , coeficition)
+{
+    return nombre - coeficition;
+}
 
 module.exports = { data2 ,multiplication }
