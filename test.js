@@ -80,4 +80,10 @@ User = {
     return nombre - coeficition;
 }
 
+ function additon ( nombre , coeficition)
+{
+    return nombre + coeficition;
+}
+
+
 module.exports = { data2 ,multiplication }
